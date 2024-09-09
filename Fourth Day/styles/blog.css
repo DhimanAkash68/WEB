@@ -1,0 +1,48 @@
+h1,h2,h3{
+	font-size: 24px;
+	text-decoration: overline;
+	font-family: cursive;
+}
+.display{
+	/* display: none; */ 
+	/*visibility: hidden;*/
+	display: none;
+}
+
+.inline{
+	  border: 3px solid blueviolet;
+	  background-color: orange;
+	  /*display: inline-block;display: block; display:inline; display:none;*/
+	  /*
+	  height: 200px;
+	  display: block; */
+	  height: 200px;
+	  display: inline-block;
+	  margin: 48px;
+	  padding: 96px;
+
+}
+
+ol{
+	/* display: inline; */
+	/*display: inline-block; */
+	display: none;
+}
+
+li{
+	/*display: inline; */
+	display: inline-block;
+}
+
+
+.blog{
+    /* display: inline; */
+    /*
+    margin: 96px;
+    border: 48px solid;
+    box-shadow: 10px 20px 10px blue; */  /*  box-shadow: 10px(x-axis) 20px(y-axis) 10px(spreadthof shadow) blue(color);           */
+    margin: 96px;
+    border: 48px solid blueviolet;
+    box-shadow: 10px 20px 30px darkblue;
+
+}

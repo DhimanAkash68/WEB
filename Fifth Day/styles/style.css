@@ -1,0 +1,23 @@
+*{
+	/*text-align: justify; */
+	text-align: justify; 
+	/*text-align: center, justify,left,right,justify-all..etc*/
+}
+
+.blog{
+	/*text-align: justify;*/ 
+	margin: 48px;
+	border: 24px solid royalblue;
+	padding: 48px 96px;
+	box-shadow: 10px 20px 30px blueviolet;
+}
+h1{
+	text-decoration: overline;
+}
+p{
+	text-decoration: underline;
+	
+}
+header{
+	/*text-align: justify; */
+}
