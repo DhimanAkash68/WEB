@@ -1,0 +1,19 @@
+.flex{
+	/* text-align: justify; */
+	margin: 16px;
+	border: 2px solid black;
+	background-color: darkorange;
+	padding:16px;
+	display: flex;
+	gap: 16px;
+}
+
+.blog{
+    text-align: justify; 
+    background-color: yellow;
+    padding: 8px;
+}
+
+.blog0{
+	/* text-align: justify; */
+}
